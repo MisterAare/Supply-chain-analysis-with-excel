@@ -30,7 +30,9 @@ The dataset comprises various features related to the Fashion and makeup product
 24. Costs
 
 # Summary
-Supply Chain Analysis involves examining different aspects of a supply chain to identify areas for improvement and enhance the overall efficiency of the supply chain, ultimately delivering greater value to customers. This project provided an overview of conducting a supply chain analysis using Excel, highlighting key steps and techniques. If you have any questions or would like to contribute further insights, please feel free to reach out.
+Supply Chain Analysis involves examining different aspects of a supply chain to identify areas for improvement and enhance the overall efficiency of the supply chain, ultimately delivering greater value to customers. This project provided an overview of conducting a supply chain analysis using Excel, highlighting key steps and techniques. 
+
+If you have any questions or would like to contribute further insights, please feel free to reach out.
 
 # References to the Solved Analysis Case Study Using Excel
 
