@@ -29,6 +29,11 @@ The dataset comprises various features related to the fashion and makeup product
 23. Routes
 24. Costs
 
+# Dashboard
+
+![Supply Chain Analysis with PowerBi_page-0001](https://github.com/MisterAare/Supply-chain-analysis-with-excel/assets/109184556/fa7e730d-28d2-4a00-ac7d-9cc0803e945f)
+
+
 # Summary
 Supply Chain Analysis involves examining different aspects of a supply chain to identify areas for improvement and enhance the overall efficiency of the supply chain, ultimately delivering greater value to customers. This project provided an overview of conducting a supply chain analysis using Excel, highlighting key steps and techniques. 
 
