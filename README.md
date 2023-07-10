@@ -31,8 +31,13 @@ The dataset comprises various features related to the fashion and makeup product
 
 # Dashboard
 
-![Supply Chain Analysis with PowerBi_page-0001](https://github.com/MisterAare/Supply-chain-analysis-with-excel/assets/109184556/02cc586c-0035-4d8f-ac9b-bbac3de033ce)
+![Supply Chain Analysis with PowerBi_page-0001](https://github.com/MisterAare/Supply-chain-analysis-with-excel/assets/109184556/2fc49fcc-8cc4-46f4-8e8e-5e42588c8742)
 
+![Supply Chain Analysis with PowerBi_page-0002](https://github.com/MisterAare/Supply-chain-analysis-with-excel/assets/109184556/4cd6ab3e-d556-4189-a3fd-9fe839dde424)
+
+![Supply Chain Analysis with PowerBi_page-0003](https://github.com/MisterAare/Supply-chain-analysis-with-excel/assets/109184556/c1f93280-cc57-468e-b438-e936b228433c)
+
+![Supply Chain Analysis with PowerBi_page-0004](https://github.com/MisterAare/Supply-chain-analysis-with-excel/assets/109184556/74261e39-451b-4d91-848d-5ed56d5897f5)
 
 
 # Summary
